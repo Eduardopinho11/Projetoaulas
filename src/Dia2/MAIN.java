@@ -3,14 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Dia1;
+package Dia2;
 
 /**
  *
  * @author s.lucas
  */
-public class Main {
+public class MAIN {
     public static void main(String[] args) {
-        System.out.println("HELLO WORLD");
+        int idade1=13,idade2=14,calculo;
+        calculo = idade1 + idade2;
+        System.out.println(calculo);
     }
 }
